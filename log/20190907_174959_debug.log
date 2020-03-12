@@ -1,0 +1,61 @@
+Tello: 17:49:59.871:  Info: start video thread
+Tello: 17:49:59.871:  Info: send connection request (cmd="conn_req:9617")
+Tello: 17:49:59.871:  Info: video receive buffer size = 425984
+Tello: 17:49:59.871:  Info: state transit State::disconnected -> State::connecting
+Tello: 17:49:59.876:  Info: connected. (port=9617)
+Tello: 17:49:59.876:  Info: send_time (cmd=0x46 seq=0x01e4)
+Tello: 17:49:59.876:  Info: state transit State::connecting -> State::connected
+Tello: 17:49:59.876:  Info: get video stream
+Tello: 17:49:59.877:  Info: start video (cmd=0x25 seq=0x01e4)
+Tello: 17:49:59.927:  Info: recv: ack: cmd=0x34 seq=0x0000 cc 60 00 27 90 34 00 00 00 00 72 a5
+Tello: 17:49:59.928:  Info: recv: ack: cmd=0x20 seq=0x0000 cc 60 00 27 b0 20 00 00 00 00 42 b9
+Tello: 17:49:59.929:  Info: recv: ack: cmd=0x34 seq=0x0000 cc 60 00 27 90 34 00 00 00 00 72 a5
+Tello: 17:49:59.929:  Info: recv: ack: cmd=0x20 seq=0x0000 cc 60 00 27 b0 20 00 00 00 00 42 b9
+Tello: 17:50:02.894:  Info: video data 857825 bytes 414.5KB/sec loss=27
+Tello: 17:50:04.894:  Info: video data 703984 bytes 343.7KB/sec
+Tello: 17:50:06.894:  Info: video data 711392 bytes 347.3KB/sec
+Tello: 17:50:08.897:  Info: video data 742092 bytes 361.8KB/sec
+Tello: 17:50:10.067:  Info: set altitude limit 30m
+Tello: 17:50:10.068:  Info: takeoff (cmd=0x54 seq=0x01e4)
+Tello: 17:50:10.068:  Info: up(val=0)
+Tello: 17:50:10.082:  Info: recv: ack: cmd=0x54 seq=0x0000 cc 60 00 27 b0 54 00 00 00 00 a1 81
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 17:50:10.899:  Info: video data 736543 bytes 359.3KB/sec loss=1
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 17:50:12.928:  Info: video data 743694 bytes 358.0KB/sec
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT:  6 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 17:50:15.043: Error: recv: timeout
+Tello: 17:50:15.043:  Info: send connection request (cmd="conn_req:9617")
+Tello: 17:50:15.043:  Info: state transit State::connected -> State::connecting
+Tello: 17:50:15.043:  Info: VideoStream.handle_event(DISCONNECTED)
+[Errno 541478725] End of file
+Tello: 17:50:15.056:  Info: land (cmd=0x55 seq=0x01e4)
+Tello: 17:50:15.056:  Info: quit
+Tello: 17:50:15.056:  Info: state transit State::connecting -> State::quit

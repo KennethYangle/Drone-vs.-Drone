@@ -1,0 +1,133 @@
+Tello: 17:42:14.382:  Info: start video thread
+Tello: 17:42:14.382:  Info: video receive buffer size = 425984
+Tello: 17:42:14.382:  Info: send connection request (cmd="conn_req:9617")
+Tello: 17:42:14.382:  Info: state transit State::disconnected -> State::connecting
+Tello: 17:42:14.390:  Info: connected. (port=9617)
+Tello: 17:42:14.390:  Info: send_time (cmd=0x46 seq=0x01e4)
+Tello: 17:42:14.391:  Info: state transit State::connecting -> State::connected
+Tello: 17:42:14.391:  Info: get video stream
+Tello: 17:42:14.391:  Info: start video (cmd=0x25 seq=0x01e4)
+Tello: 17:42:14.441:  Info: recv: ack: cmd=0x34 seq=0x0000 cc 60 00 27 90 34 00 00 00 00 72 a5
+Tello: 17:42:14.442:  Info: recv: ack: cmd=0x20 seq=0x0000 cc 60 00 27 b0 20 00 00 00 00 42 b9
+Tello: 17:42:14.442:  Info: recv: ack: cmd=0x34 seq=0x0000 cc 60 00 27 90 34 00 00 00 00 72 a5
+Tello: 17:42:14.442:  Info: recv: ack: cmd=0x20 seq=0x0000 cc 60 00 27 b0 20 00 00 00 00 42 b9
+Tello: 17:42:17.385:  Info: video data 907724 bytes 442.9KB/sec loss=23
+Tello: 17:42:19.386:  Info: video data 752812 bytes 367.4KB/sec
+Tello: 17:42:20.710:  Info: video recv: 1460 bytes 7100 +143
+Tello: 17:42:21.026:  Info: video recv: 1460 bytes 7b00 +133
+Tello: 17:42:21.315:  Info: video recv: 1460 bytes 8400 +127
+Tello: 17:42:21.386:  Info: video data 753509 bytes 367.9KB/sec
+Tello: 17:42:21.521:  Info: video recv: 1460 bytes 8c00 +127
+Tello: 17:42:21.668:  Info: video recv: 1460 bytes 8d00 +120
+Tello: 17:42:21.829:  Info: video recv: 1460 bytes 9500 +122
+Tello: 17:42:21.973:  Info: video recv: 1460 bytes 9a00 +120
+Tello: 17:42:22.137:  Info: video recv: 1460 bytes 9e00 +145
+Tello: 17:42:22.280:  Info: video recv: 1460 bytes a300 +118
+Tello: 17:42:22.444:  Info: video recv: 1460 bytes a800 +120
+Tello: 17:42:22.587:  Info: video recv: 1460 bytes ac00 +126
+Tello: 17:42:22.737:  Info: video recv: 1460 bytes b001 +114
+Tello: 17:42:22.879:  Info: video recv: 1460 bytes b500 +118
+Tello: 17:42:23.057:  Info: video recv: 1460 bytes ba00 +126
+Tello: 17:42:23.201:  Info: video recv: 1460 bytes be04 +118
+Tello: 17:42:23.366:  Info: video recv: 1460 bytes c300 +139
+Tello: 17:42:23.387:  Info: video data 739531 bytes 361.0KB/sec loss=34
+Tello: 17:42:23.506:  Info: video recv: 15 bytes c880 +116
+Tello: 17:42:23.673:  Info: video recv: 1460 bytes ce00 +121
+Tello: 17:42:23.816:  Info: video recv: 1460 bytes d200 +126
+Tello: 17:42:23.980:  Info: video recv: 1460 bytes d700 +125
+Tello: 17:42:24.122:  Info: video recv: 1460 bytes db00 +124
+Tello: 17:42:24.287:  Info: video recv: 1460 bytes e000 +132
+Tello: 17:42:24.621:  Info: set altitude limit 30m
+Tello: 17:42:24.621:  Info: takeoff (cmd=0x54 seq=0x01e4)
+ALT:  0 | SPD:  0 | BAT: 28 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 17:42:24.652:  Info: recv: ack: cmd=0x54 seq=0x0000 cc 60 00 27 b0 54 00 00 00 00 a1 81
+ALT:  0 | SPD:  0 | BAT: 28 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 28 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 28 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 28 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 28 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+Tello: 17:42:25.398:  Info: video data 763069 bytes 370.5KB/sec
+ALT:  0 | SPD: -1 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD: -4 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD: -7 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  1 | SPD: -8 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  2 | SPD: -9 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  3 | SPD: -10 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  4 | SPD: -10 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  5 | SPD: -10 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  6 | SPD: -9 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  7 | SPD: -8 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD: -6 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD: -5 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD: -4 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD: -2 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD: -1 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD: -1 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+Tello: 17:42:27.425:  Info: video data 738684 bytes 356.0KB/sec
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD: -1 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+Tello: 17:42:29.428:  Info: video data 751335 bytes 366.3KB/sec
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  1 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  1 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+Tello: 17:42:31.429:  Info: video data 755868 bytes 368.8KB/sec
+ALT: 11 | SPD:  1 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  1 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  1 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 10 | SPD:  0 | BAT: 27 | WIFI: 90 | CAM:  0 | MODE:  6Sub-process start.

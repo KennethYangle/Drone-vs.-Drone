@@ -1,0 +1,993 @@
+Tello: 15:19:31.485:  Info: start video thread
+Tello: 15:19:31.485:  Info: video receive buffer size = 425984
+Tello: 15:19:31.485:  Info: send connection request (cmd="conn_req:9617")
+Tello: 15:19:31.485:  Info: state transit State::disconnected -> State::connecting
+Tello: 15:19:31.527:  Info: connected. (port=9617)
+Tello: 15:19:31.527:  Info: send_time (cmd=0x46 seq=0x01e4)
+Tello: 15:19:31.527:  Info: state transit State::connecting -> State::connected
+Tello: 15:19:31.528:  Info: get video stream
+Tello: 15:19:31.528:  Info: start video (cmd=0x25 seq=0x01e4)
+Tello: 15:19:31.578:  Info: recv: ack: cmd=0x34 seq=0x0000 cc 60 00 27 90 34 00 00 00 00 72 a5
+Tello: 15:19:31.578:  Info: recv: ack: cmd=0x20 seq=0x0000 cc 60 00 27 b0 20 00 00 00 00 42 b9
+Tello: 15:19:31.579:  Info: recv: ack: cmd=0x34 seq=0x0000 cc 60 00 27 90 34 00 00 00 00 72 a5
+Tello: 15:19:31.579:  Info: recv: ack: cmd=0x20 seq=0x0000 cc 60 00 27 b0 20 00 00 00 00 42 b9
+Tello: 15:19:34.515:  Info: video data 927908 bytes 446.6KB/sec
+Tello: 15:19:36.517:  Info: video data 755308 bytes 368.4KB/sec
+Tello: 15:19:38.517:  Info: video data 749755 bytes 366.1KB/sec
+Tello: 15:19:40.518:  Info: video data 756904 bytes 369.5KB/sec
+Tello: 15:19:41.722:  Info: set altitude limit 30m
+Tello: 15:19:41.722:  Info: takeoff (cmd=0x54 seq=0x01e4)
+Tello: 15:19:41.732:  Info: recv: ack: cmd=0x54 seq=0x0000 cc 60 00 27 b0 54 00 00 00 00 a1 81
+ALT:  0 | SPD:  0 | BAT: 76 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  0 | SPD:  0 | BAT: 76 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 76 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 76 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 76 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD: -3 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+Tello: 15:19:42.528:  Info: video data 741169 bytes 359.9KB/sec
+ALT:  0 | SPD: -5 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD: -7 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD: -8 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  1 | SPD: -9 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  2 | SPD: -9 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  3 | SPD: -9 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  4 | SPD: -8 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  4 | SPD: -7 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  5 | SPD: -6 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  6 | SPD: -5 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  6 | SPD: -4 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  7 | SPD: -3 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  7 | SPD: -2 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD: -1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+Tello: 15:19:44.551:  Info: video data 764867 bytes 369.3KB/sec
+ALT:  9 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+Tello: 15:19:46.551:  Info: video data 754024 bytes 368.2KB/sec
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+Tello: 15:19:48.551:  Info: video data 749611 bytes 366.0KB/sec
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:50.552:  Info: video data 749638 bytes 365.8KB/sec
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:52.580:  Info: video data 763598 bytes 367.8KB/sec
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:54.581:  Info: video data 751066 bytes 366.5KB/sec
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:56.583:  Info: video data 752558 bytes 367.1KB/sec
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:57.324:  Info: set_yaw(val=-0.07)
+Tello: 15:19:57.324:  Info: set_throttle(val=0.11)
+Tello: 15:19:57.324:  Info: set_pitch(val=0.30)
+2 -35.50531397317502 -21.27691113578794
+2 -35.50531397317502 -21.27691113578794
+Tello: 15:19:57.389:  Info: set_yaw(val=-0.07)
+Tello: 15:19:57.389:  Info: set_throttle(val=0.12)
+2 -33.45185862039182 -23.808637257690407
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -33.45185862039182 -23.808637257690407
+Tello: 15:19:57.458:  Info: set_yaw(val=-0.07)
+Tello: 15:19:57.458:  Info: set_throttle(val=0.13)
+2 -34.20600668643567 -25.006631132240273
+2 -34.20600668643567 -25.006631132240273
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:57.524:  Info: set_yaw(val=-0.07)
+Tello: 15:19:57.524:  Info: set_throttle(val=0.13)
+2 -34.678779046283694 -25.410860028142906
+2 -34.678779046283694 -25.410860028142906
+Tello: 15:19:57.591:  Info: set_yaw(val=-0.07)
+Tello: 15:19:57.591:  Info: set_throttle(val=0.13)
+2 -33.80633882735822 -26.449819173688866
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -33.80633882735822 -26.449819173688866
+Tello: 15:19:57.658:  Info: set_yaw(val=-0.07)
+Tello: 15:19:57.658:  Info: set_throttle(val=0.13)
+2 -33.56201122258756 -26.377131532902695
+Tello: 15:19:57.696:  Info: set_yaw(val=-0.07)
+Tello: 15:19:57.696:  Info: set_throttle(val=0.13)
+2 -32.58177504991147 -26.447637733097054
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -32.58177504991147 -26.447637733097054
+Tello: 15:19:57.763:  Info: set_yaw(val=-0.07)
+Tello: 15:19:57.763:  Info: set_throttle(val=0.13)
+2 -33.381962458835574 -26.05366399514196
+2 -33.381962458835574 -26.05366399514196
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:57.827:  Info: set_yaw(val=-0.07)
+Tello: 15:19:57.827:  Info: set_throttle(val=0.13)
+2 -32.888548772083254 -25.74634250628469
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -32.888548772083254 -25.74634250628469
+Tello: 15:19:57.895:  Info: set_yaw(val=-0.06)
+Tello: 15:19:57.895:  Info: set_throttle(val=0.13)
+2 -31.553885500179263 -25.448769118661858
+2 -31.553885500179263 -25.448769118661858
+Tello: 15:19:57.962:  Info: set_yaw(val=-0.06)
+Tello: 15:19:57.962:  Info: set_throttle(val=0.13)
+2 -30.01005999301526 -25.150357183094002
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -30.01005999301526 -25.150357183094002
+Tello: 15:19:58.027:  Info: set_yaw(val=-0.06)
+Tello: 15:19:58.027:  Info: set_throttle(val=0.11)
+2 -28.365806619869204 -22.055152829761482
+2 -28.365806619869204 -22.055152829761482
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:58.099:  Info: set_yaw(val=-0.05)
+Tello: 15:19:58.099:  Info: set_throttle(val=0.10)
+2 -25.552385132060977 -20.184477504367806
+2 -25.552385132060977 -20.184477504367806
+Tello: 15:19:58.162:  Info: set_yaw(val=-0.05)
+Tello: 15:19:58.162:  Info: set_throttle(val=0.10)
+2 -22.78008274291608 -19.66437226163862
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -22.78008274291608 -19.66437226163862
+Tello: 15:19:58.229:  Info: set_yaw(val=-0.04)
+Tello: 15:19:58.230:  Info: set_throttle(val=0.09)
+2 -21.14378849719617 -18.82869749891279
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -21.14378849719617 -18.82869749891279
+Tello: 15:19:58.293:  Info: set_yaw(val=-0.04)
+Tello: 15:19:58.293:  Info: set_throttle(val=0.09)
+2 -18.94659940456006 -18.42035770046232
+2 -18.94659940456006 -18.42035770046232
+Tello: 15:19:58.360:  Info: set_yaw(val=-0.03)
+Tello: 15:19:58.360:  Info: set_throttle(val=0.09)
+2 -17.42313782428357 -17.03236233818052
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -17.42313782428357 -17.03236233818052
+Tello: 15:19:58.427:  Info: set_yaw(val=-0.03)
+Tello: 15:19:58.427:  Info: set_throttle(val=0.08)
+2 -15.90214733337018 -15.352869030113197
+2 -15.90214733337018 -15.352869030113197
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:58.491:  Info: set_yaw(val=-0.03)
+Tello: 15:19:58.491:  Info: set_throttle(val=0.07)
+2 -13.672962705837222 -14.365872379417397
+Tello: 15:19:58.528:  Info: set_yaw(val=-0.02)
+Tello: 15:19:58.528:  Info: set_throttle(val=0.06)
+2 -12.323754946933718 -12.875306602592445
+2 -12.323754946933718 -12.875306602592445
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:58.583:  Info: video data 749714 bytes 366.1KB/sec
+Tello: 15:19:58.593:  Info: set_yaw(val=-0.02)
+Tello: 15:19:58.593:  Info: set_throttle(val=0.06)
+2 -11.572529058204623 -11.379356738204933
+2 -11.572529058204623 -11.379356738204933
+Tello: 15:19:58.658:  Info: set_yaw(val=-0.02)
+Tello: 15:19:58.658:  Info: set_throttle(val=0.05)
+2 -9.768029789672823 -10.747835870857216
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -9.768029789672823 -10.747835870857216
+Tello: 15:19:58.727:  Info: set_yaw(val=-0.02)
+Tello: 15:19:58.727:  Info: set_throttle(val=0.05)
+2 -8.917781393276186 -9.117568966026283
+2 -8.917781393276186 -9.117568966026283
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:58.793:  Info: set_yaw(val=-0.02)
+Tello: 15:19:58.793:  Info: set_throttle(val=0.04)
+2 -8.751519452081652 -7.65395474063871
+2 -8.751519452081652 -7.65395474063871
+Tello: 15:19:58.862:  Info: set_yaw(val=-0.02)
+Tello: 15:19:58.862:  Info: set_throttle(val=0.03)
+2 -7.815541695104571 -6.186244245643593
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -7.815541695104571 -6.186244245643593
+Tello: 15:19:58.928:  Info: set_yaw(val=-0.02)
+Tello: 15:19:58.928:  Info: set_throttle(val=0.02)
+2 -7.607425685273142 -4.893427964324928
+2 -7.607425685273142 -4.893427964324928
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:58.996:  Info: set_yaw(val=-0.01)
+Tello: 15:19:58.996:  Info: set_throttle(val=0.02)
+2 -6.7233852699861245 -3.4471863471221695
+2 -6.7233852699861245 -3.4471863471221695
+Tello: 15:19:59.064:  Info: set_yaw(val=-0.01)
+Tello: 15:19:59.064:  Info: set_throttle(val=0.01)
+2 -7.162337030516596 -2.183805938835121
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -7.162337030516596 -2.183805938835121
+Tello: 15:19:59.131:  Info: set_yaw(val=-0.01)
+Tello: 15:19:59.131:  Info: set_throttle(val=0.00)
+2 -5.901052798377009 -0.86969279872892
+2 -5.901052798377009 -0.86969279872892
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:59.198:  Info: set_yaw(val=-0.01)
+Tello: 15:19:59.198:  Info: set_throttle(val=0.00)
+2 -5.6902683929071145 -0.04201608526227574
+2 -5.6902683929071145 -0.04201608526227574
+Tello: 15:19:59.262:  Info: set_yaw(val=-0.01)
+Tello: 15:19:59.263:  Info: set_throttle(val=-0.01)
+2 -5.302146698580714 1.0576755441475143
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -5.302146698580714 1.0576755441475143
+Tello: 15:19:59.328:  Info: set_yaw(val=-0.01)
+Tello: 15:19:59.328:  Info: set_throttle(val=-0.01)
+2 -5.336143273161383 2.590094868068718
+2 -5.336143273161383 2.590094868068718
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:59.394:  Info: set_yaw(val=-0.01)
+Tello: 15:19:59.394:  Info: set_throttle(val=-0.02)
+2 -4.747338551329108 3.7996152080345382
+2 -4.747338551329108 3.7996152080345382
+Tello: 15:19:59.465:  Info: set_yaw(val=-0.01)
+Tello: 15:19:59.465:  Info: set_throttle(val=-0.03)
+2 -4.475420135305853 5.532331768398308
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:59.500:  Info: set_yaw(val=-0.01)
+Tello: 15:19:59.500:  Info: set_throttle(val=-0.03)
+2 -4.621429222868414 6.749644938831352
+2 -4.621429222868414 6.749644938831352
+Tello: 15:19:59.563:  Info: set_yaw(val=-0.01)
+Tello: 15:19:59.563:  Info: set_throttle(val=-0.04)
+2 -4.071733433054419 7.043457094554924
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -4.071733433054419 7.043457094554924
+Tello: 15:19:59.628:  Info: set_yaw(val=-0.01)
+Tello: 15:19:59.628:  Info: set_throttle(val=-0.04)
+2 -3.462881165789099 8.813190404300713
+2 -3.462881165789099 8.813190404300713
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:19:59.697:  Info: set_yaw(val=-0.01)
+Tello: 15:19:59.697:  Info: set_throttle(val=-0.05)
+2 -3.1935323358044343 9.939096633319878
+2 -3.1935323358044343 9.939096633319878
+Tello: 15:19:59.763:  Info: set_yaw(val=-0.00)
+Tello: 15:19:59.763:  Info: set_throttle(val=-0.06)
+2 -1.3951040387615876 11.277139607791923
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -1.3951040387615876 11.277139607791923
+Tello: 15:19:59.828:  Info: set_yaw(val=-0.00)
+Tello: 15:19:59.828:  Info: set_throttle(val=-0.06)
+2 -0.5150132060513215 12.031045202140831
+2 -0.5150132060513215 12.031045202140831
+Tello: 15:19:59.893:  Info: set_yaw(val=0.00)
+Tello: 15:19:59.893:  Info: set_throttle(val=-0.06)
+2 0.47338606114533377 12.585039917354607
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 0.47338606114533377 12.585039917354607
+Tello: 15:19:59.966:  Info: set_yaw(val=0.00)
+Tello: 15:19:59.966:  Info: set_throttle(val=-0.08)
+2 1.288513672305612 15.479087892894768
+2 1.288513672305612 15.479087892894768
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:00.030:  Info: set_yaw(val=0.01)
+Tello: 15:20:00.030:  Info: set_throttle(val=-0.08)
+2 3.1717223047747893 16.084845665817284
+2 3.1717223047747893 16.084845665817284
+Tello: 15:20:00.097:  Info: set_yaw(val=0.01)
+Tello: 15:20:00.097:  Info: set_throttle(val=-0.08)
+2 4.671395194484262 16.764831844692253
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 4.671395194484262 16.764831844692253
+Tello: 15:20:00.161:  Info: set_yaw(val=0.01)
+Tello: 15:20:00.161:  Info: set_throttle(val=-0.09)
+2 5.790351760341196 18.316512290363335
+2 5.790351760341196 18.316512290363335
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:00.227:  Info: set_yaw(val=0.01)
+Tello: 15:20:00.227:  Info: set_throttle(val=-0.10)
+2 6.750676763011484 20.12957591188433
+2 6.750676763011484 20.12957591188433
+Tello: 15:20:00.294:  Info: set_yaw(val=0.02)
+Tello: 15:20:00.294:  Info: set_throttle(val=-0.11)
+2 8.534199011279611 21.53666979444506
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 8.534199011279611 21.53666979444506
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:00.360:  Info: set_yaw(val=0.02)
+Tello: 15:20:00.360:  Info: set_throttle(val=-0.11)
+2 10.349362146808176 22.907911006336235
+Tello: 15:20:00.396:  Info: set_yaw(val=0.02)
+Tello: 15:20:00.396:  Info: set_throttle(val=-0.12)
+2 11.82571912999299 24.290667477970146
+2 11.82571912999299 24.290667477970146
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:00.464:  Info: set_yaw(val=0.02)
+Tello: 15:20:00.464:  Info: set_throttle(val=-0.13)
+2 12.18228338356164 25.47555476797106
+2 12.18228338356164 25.47555476797106
+Tello: 15:20:00.528:  Info: set_yaw(val=0.03)
+Tello: 15:20:00.528:  Info: set_throttle(val=-0.13)
+2 14.183767777635126 26.41013229263308
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 14.183767777635126 26.41013229263308
+Tello: 15:20:00.586:  Info: video data 752814 bytes 367.1KB/sec
+Tello: 15:20:00.593:  Info: set_yaw(val=0.03)
+Tello: 15:20:00.594:  Info: set_throttle(val=-0.14)
+2 16.417512160493402 27.55157745254519
+2 16.417512160493402 27.55157745254519
+2 16.417512160493402 27.55157745254519
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:00.699:  Info: set_yaw(val=0.04)
+Tello: 15:20:00.699:  Info: set_throttle(val=-0.14)
+2 19.19183395500329 28.419626001243614
+Tello: 15:20:00.727:  Info: set_yaw(val=0.04)
+Tello: 15:20:00.727:  Info: set_throttle(val=-0.14)
+2 21.85056470031884 28.753498319511436
+2 21.85056470031884 28.753498319511436
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:00.795:  Info: set_yaw(val=0.05)
+Tello: 15:20:00.795:  Info: set_throttle(val=-0.15)
+2 22.97209690208581 30.04684305561068
+2 22.97209690208581 30.04684305561068
+Tello: 15:20:00.863:  Info: set_yaw(val=0.05)
+Tello: 15:20:00.863:  Info: set_throttle(val=-0.20)
+2 25.452516537858514 39.64421511066439
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 25.452516537858514 39.64421511066439
+Tello: 15:20:00.929:  Info: set_yaw(val=0.05)
+Tello: 15:20:00.929:  Info: set_throttle(val=-0.24)
+2 27.32347081298974 47.369274143104576
+2 27.32347081298974 47.369274143104576
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:00.996:  Info: set_yaw(val=0.06)
+Tello: 15:20:00.996:  Info: set_throttle(val=-0.20)
+2 29.807151299668817 40.87033510578158
+2 29.807151299668817 40.87033510578158
+Tello: 15:20:01.064:  Info: set_yaw(val=0.07)
+Tello: 15:20:01.064:  Info: set_throttle(val=-0.24)
+2 34.32425830955651 48.95987558734896
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 34.32425830955651 48.95987558734896
+Tello: 15:20:01.129:  Info: set_yaw(val=0.07)
+Tello: 15:20:01.129:  Info: set_throttle(val=-0.21)
+2 35.80574606056359 42.26141310108187
+2 35.80574606056359 42.26141310108187
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:01.195:  Info: set_yaw(val=0.08)
+Tello: 15:20:01.195:  Info: set_throttle(val=-0.25)
+2 42.137553673936395 50.214605811958336
+2 42.137553673936395 50.214605811958336
+Tello: 15:20:01.261:  Info: set_yaw(val=0.09)
+Tello: 15:20:01.262:  Info: set_throttle(val=-0.30)
+2 44.55963943596032 59.2369656599808
+ALT:  8 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 44.55963943596032 59.2369656599808
+Tello: 15:20:01.326:  Info: set_yaw(val=0.10)
+Tello: 15:20:01.326:  Info: set_throttle(val=-0.22)
+2 49.06698606605676 44.96249533069613
+2 49.06698606605676 44.96249533069613
+ALT:  7 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:01.396:  Info: set_yaw(val=0.10)
+Tello: 15:20:01.396:  Info: set_throttle(val=-0.27)
+2 52.132538539124994 53.81511545551302
+Tello: 15:20:01.432:  Info: set_yaw(val=0.13)
+Tello: 15:20:01.432:  Info: set_throttle(val=-0.22)
+2 63.798375827027826 43.708000663642906
+2 63.798375827027826 43.708000663642906
+ALT:  7 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:01.501:  Info: set_yaw(val=0.13)
+Tello: 15:20:01.501:  Info: set_throttle(val=-0.26)
+2 64.47025386686471 52.78075552356722
+2 64.47025386686471 52.78075552356722
+Tello: 15:20:01.565:  Info: set_yaw(val=0.13)
+Tello: 15:20:01.565:  Info: set_throttle(val=-0.20)
+2 64.62246708269265 40.114086631660484
+ALT:  7 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 64.62246708269265 40.114086631660484
+Tello: 15:20:01.632:  Info: set_yaw(val=0.13)
+Tello: 15:20:01.632:  Info: set_throttle(val=-0.25)
+2 67.16527656908181 49.7387795485306
+2 67.16527656908181 49.7387795485306
+ALT:  7 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:01.698:  Info: set_yaw(val=0.13)
+Tello: 15:20:01.698:  Info: set_throttle(val=-0.18)
+2 67.44464228744653 35.56511831653597
+2 67.44464228744653 35.56511831653597
+Tello: 15:20:01.769:  Info: set_yaw(val=0.18)
+Tello: 15:20:01.769:  Info: set_throttle(val=-0.23)
+2 89.10596011276391 45.38762808216097
+ALT:  7 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 89.10596011276391 45.38762808216097
+Tello: 15:20:01.831:  Info: set_yaw(val=0.21)
+Tello: 15:20:01.831:  Info: set_throttle(val=-0.28)
+2 103.5650541603103 55.94796514881136
+2 103.5650541603103 55.94796514881136
+ALT:  7 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:01.899:  Info: set_yaw(val=0.24)
+Tello: 15:20:01.899:  Info: set_throttle(val=-0.19)
+2 119.8205187141433 38.42392874134066
+2 119.8205187141433 38.42392874134066
+Tello: 15:20:01.964:  Info: set_yaw(val=0.23)
+Tello: 15:20:01.964:  Info: set_throttle(val=-0.12)
+2 113.57681868667748 23.712920669441246
+ALT:  7 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 113.57681868667748 23.712920669441246
+2 113.57681868667748 23.712920669441246
+Tello: 15:20:02.061:  Info: set_yaw(val=0.30)
+Tello: 15:20:02.061:  Info: set_throttle(val=-0.17)
+2 150.1442320167556 33.53226900470736
+ALT:  7 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 150.1442320167556 33.53226900470736
+Tello: 15:20:02.129:  Info: set_yaw(val=0.32)
+Tello: 15:20:02.129:  Info: set_throttle(val=-0.30)
+2 162.21393225784448 60.074455741767906
+2 162.21393225784448 60.074455741767906
+ALT:  6 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:02.204:  Info: set_yaw(val=0.35)
+Tello: 15:20:02.204:  Info: set_throttle(val=-0.29)
+2 174.1178934394851 58.12480521572115
+2 174.1178934394851 58.12480521572115
+Tello: 15:20:02.269:  Info: set_yaw(val=0.42)
+Tello: 15:20:02.269:  Info: set_throttle(val=-0.29)
+2 207.62266562576428 57.74103758109095
+ALT:  6 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 207.62266562576428 57.74103758109095
+Tello: 15:20:02.329:  Info: set_yaw(val=0.43)
+Tello: 15:20:02.329:  Info: set_throttle(val=-0.27)
+2 215.23630927200463 54.97182986510279
+2 215.23630927200463 54.97182986510279
+ALT:  6 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:02.400:  Info: set_yaw(val=0.51)
+Tello: 15:20:02.400:  Info: set_throttle(val=-0.28)
+2 254.73334143753198 55.6962868310261
+2 254.73334143753198 55.6962868310261
+Tello: 15:20:02.464:  Info: set_yaw(val=0.53)
+Tello: 15:20:02.464:  Info: set_throttle(val=-0.29)
+2 265.5169355690016 57.481149945383095
+ALT:  6 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 265.5169355690016 57.481149945383095
+Tello: 15:20:02.533:  Info: set_yaw(val=0.64)
+Tello: 15:20:02.533:  Info: set_throttle(val=-0.31)
+2 321.0750868141189 61.7199719287205
+2 321.0750868141189 61.7199719287205
+Tello: 15:20:02.587:  Info: video data 749365 bytes 365.6KB/sec
+Tello: 15:20:02.597:  Info: set_yaw(val=0.64)
+Tello: 15:20:02.597:  Info: set_throttle(val=-0.33)
+2 319.7761344730392 66.54326513779642
+ALT:  6 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 319.7761344730392 66.54326513779642
+2 319.7761344730392 66.54326513779642
+Tello: 15:20:02.698:  Info: set_yaw(val=0.05)
+Tello: 15:20:02.698:  Info: set_throttle(val=0.08)
+2 22.55915449257043 -15.208611693258263
+ALT:  6 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 22.55915449257043 -15.208611693258263
+ALT:  6 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:02.768:  Info: set_yaw(val=0.01)
+Tello: 15:20:02.768:  Info: set_throttle(val=0.17)
+2 4.395715695573358 -34.336352553243614
+2 4.395715695573358 -34.336352553243614
+Tello: 15:20:02.831:  Info: set_yaw(val=-0.07)
+Tello: 15:20:02.831:  Info: set_throttle(val=0.26)
+2 -36.362077730940314 -52.03951570021627
+ALT:  5 | SPD:  1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -36.362077730940314 -52.03951570021627
+Tello: 15:20:02.899:  Info: set_yaw(val=-0.20)
+Tello: 15:20:02.899:  Info: set_throttle(val=0.45)
+2 -99.71180536155555 -90.62672730910299
+2 -99.71180536155555 -90.62672730910299
+ALT:  5 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:02.965:  Info: set_yaw(val=-0.27)
+Tello: 15:20:02.965:  Info: set_throttle(val=0.66)
+2 -136.27560235862586 -131.26697846877096
+2 -136.27560235862586 -131.26697846877096
+Tello: 15:20:03.034:  Info: set_yaw(val=-0.24)
+Tello: 15:20:03.034:  Info: set_throttle(val=0.89)
+2 -118.51581766013953 -177.91276856886861
+ALT:  5 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -118.51581766013953 -177.91276856886861
+Tello: 15:20:03.100:  Info: set_yaw(val=-0.13)
+Tello: 15:20:03.100:  Info: set_throttle(val=1.00)
+2 -66.83549310569617 -210.91303178297994
+2 -66.83549310569617 -210.91303178297994
+Tello: 15:20:03.166:  Info: set_yaw(val=0.10)
+2 52.04051397438195 -244.29191514479635
+ALT:  5 | SPD:  0 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 52.04051397438195 -244.29191514479635
+Tello: 15:20:03.236:  Info: set_yaw(val=-0.06)
+Tello: 15:20:03.236:  Info: set_throttle(val=0.72)
+2 -27.865034121321173 -144.0977623127651
+ALT:  5 | SPD: -1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -27.865034121321173 -144.0977623127651
+Tello: 15:20:03.300:  Info: set_yaw(val=-0.13)
+Tello: 15:20:03.301:  Info: set_throttle(val=0.84)
+2 -66.62299157981727 -168.1249439381313
+2 -66.62299157981727 -168.1249439381313
+Tello: 15:20:03.367:  Info: set_yaw(val=-0.09)
+Tello: 15:20:03.367:  Info: set_throttle(val=0.81)
+2 -47.13888170127723 -162.1307394169521
+ALT:  5 | SPD:  9 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -47.13888170127723 -162.1307394169521
+Tello: 15:20:03.431:  Info: set_yaw(val=-0.19)
+Tello: 15:20:03.431:  Info: set_throttle(val=1.00)
+2 -96.61063386802527 -233.9682867191982
+2 -96.61063386802527 -233.9682867191982
+ALT:  4 | SPD: 17 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:03.499:  Info: set_yaw(val=-0.29)
+2 -143.2767677486405 -215.0718023441982
+2 -143.2767677486405 -215.0718023441982
+2 -143.2767677486405 -215.0718023441982
+ALT:  3 | SPD: 19 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:03.608:  Info: set_yaw(val=-0.26)
+2 -129.55980874900672 -223.54003640639303
+2 -129.55980874900672 -223.54003640639303
+Tello: 15:20:03.663:  Info: set_yaw(val=-0.31)
+2 -153.68513681297156 -225.76905700194357
+ALT:  1 | SPD: 17 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -153.68513681297156 -225.76905700194357
+Tello: 15:20:03.734:  Info: set_yaw(val=-0.35)
+2 -172.9225139797196 -231.13634845244405
+2 -172.9225139797196 -231.13634845244405
+ALT:  1 | SPD: 12 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:03.796:  Info: set_yaw(val=-0.72)
+Tello: 15:20:03.796:  Info: set_throttle(val=0.36)
+2 -360.1844463527665 -72.22587176787374
+2 -360.1844463527665 -72.22587176787374
+Tello: 15:20:03.868:  Info: set_yaw(val=-0.75)
+Tello: 15:20:03.868:  Info: set_throttle(val=0.41)
+2 -372.84053232078406 -82.50880881773946
+ALT:  0 | SPD: 17 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -372.84053232078406 -82.50880881773946
+Tello: 15:20:03.930:  Info: set_yaw(val=-0.76)
+Tello: 15:20:03.930:  Info: set_throttle(val=0.47)
+2 -381.9500150859818 -94.77074119078634
+2 -381.9500150859818 -94.77074119078634
+ALT:  0 | SPD: 26 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:03.995:  Info: set_yaw(val=-0.78)
+Tello: 15:20:03.995:  Info: set_throttle(val=0.56)
+2 -388.6108160198197 -112.83431884276388
+2 -388.6108160198197 -112.83431884276388
+Tello: 15:20:04.064:  Info: set_yaw(val=-0.78)
+Tello: 15:20:04.064:  Info: set_throttle(val=0.65)
+2 -391.3742895305619 -129.25149413573263
+ALT: -3 | SPD: 34 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -391.3742895305619 -129.25149413573263
+Tello: 15:20:04.133:  Info: set_yaw(val=-0.82)
+Tello: 15:20:04.133:  Info: set_throttle(val=0.70)
+2 -408.55501462821815 -139.17525359618185
+2 -408.55501462821815 -139.17525359618185
+ALT: -6 | SPD: 42 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:04.198:  Info: set_yaw(val=-0.83)
+Tello: 15:20:04.198:  Info: set_throttle(val=0.72)
+2 -416.0193081081376 -144.81107017027853
+2 -416.0193081081376 -144.81107017027853
+2 -416.0193081081376 -144.81107017027853
+ALT: -9 | SPD: 26 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:04.295:  Info: set_yaw(val=-0.54)
+Tello: 15:20:04.295:  Info: set_throttle(val=1.00)
+2 -270.97122766380164 -213.87383719908712
+2 -270.97122766380164 -213.87383719908712
+Tello: 15:20:04.361:  Info: set_yaw(val=-0.57)
+2 -283.46194555168006 -221.48829814421651
+ALT: -11 | SPD: 29 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -283.46194555168006 -221.48829814421651
+Tello: 15:20:04.429:  Info: set_yaw(val=-0.58)
+2 -290.75956107978675 -232.0829302929592
+2 -290.75956107978675 -232.0829302929592
+ALT: -12 | SPD:  7 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:04.503:  Info: set_yaw(val=-0.58)
+2 -290.9047240943179 -234.28950234877584
+2 -290.9047240943179 -234.28950234877584
+Tello: 15:20:04.566:  Info: set_yaw(val=-0.61)
+2 -305.4771575659976 -239.08831426131246
+Tello: 15:20:04.587:  Info: video data 754094 bytes 368.2KB/sec
+ALT: -13 | SPD: 13 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -305.4771575659976 -239.08831426131246
+Tello: 15:20:04.632:  Info: set_yaw(val=-0.63)
+2 -314.8672094077334 -244.62440082060812
+2 -314.8672094077334 -244.62440082060812
+ALT: -13 | SPD: 19 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:04.696:  Info: set_yaw(val=-0.67)
+2 -333.00826165382716 -249.4567415379238
+2 -333.00826165382716 -249.4567415379238
+2 -333.00826165382716 -249.4567415379238
+ALT: -14 | SPD: -1 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:04.795:  Info: set_yaw(val=-0.68)
+2 -337.9345559806094 -254.37880631911275
+2 -337.9345559806094 -254.37880631911275
+Tello: 15:20:04.862:  Info: set_yaw(val=-0.82)
+Tello: 15:20:04.862:  Info: set_throttle(val=0.59)
+2 -409.995614025043 -118.60570451247213
+ALT: -14 | SPD:  8 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -409.995614025043 -118.60570451247213
+Tello: 15:20:04.930:  Info: set_yaw(val=-0.85)
+Tello: 15:20:04.930:  Info: set_throttle(val=0.63)
+2 -423.58402058784816 -125.51257297026632
+2 -423.58402058784816 -125.51257297026632
+ALT: -15 | SPD: 15 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:05.000:  Info: set_yaw(val=-0.81)
+Tello: 15:20:05.000:  Info: set_throttle(val=0.65)
+2 -405.30628010933253 -130.67759582030294
+2 -405.30628010933253 -130.67759582030294
+Tello: 15:20:05.065:  Info: set_yaw(val=-0.86)
+Tello: 15:20:05.065:  Info: set_throttle(val=-0.22)
+2 -429.45056912605617 44.69744995606425
+2 -429.45056912605617 44.69744995606425
+ALT: -15 | SPD:  7 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:05.130:  Info: set_yaw(val=-0.82)
+Tello: 15:20:05.130:  Info: set_throttle(val=0.74)
+2 -410.79921338264796 -147.1330554150295
+ALT: -15 | SPD:  8 | BAT: 75 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -410.79921338264796 -147.1330554150295
+Tello: 15:20:05.204:  Info: set_yaw(val=-0.84)
+Tello: 15:20:05.204:  Info: set_throttle(val=0.74)
+2 -420.9502343863711 -148.75900265204427
+2 -420.9502343863711 -148.75900265204427
+ALT: -15 | SPD:  5 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:05.269:  Info: set_yaw(val=-0.80)
+Tello: 15:20:05.270:  Info: set_throttle(val=0.52)
+2 -400.2449235648379 -103.81607815253255
+2 -400.2449235648379 -103.81607815253255
+Tello: 15:20:05.335:  Info: set_yaw(val=-0.74)
+Tello: 15:20:05.335:  Info: set_throttle(val=0.28)
+2 -370.6182145804629 -55.95814892279623
+ALT: -15 | SPD:  3 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -370.6182145804629 -55.95814892279623
+Tello: 15:20:05.406:  Info: set_yaw(val=-0.75)
+Tello: 15:20:05.406:  Info: set_throttle(val=0.94)
+2 -376.06368395988795 -187.99284740912435
+2 -376.06368395988795 -187.99284740912435
+ALT: -16 | SPD:  3 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -376.06368395988795 -187.99284740912435
+Tello: 15:20:05.495:  Info: set_yaw(val=-0.71)
+Tello: 15:20:05.495:  Info: set_throttle(val=0.97)
+2 -353.7469019622073 -193.9380283020687
+2 -353.7469019622073 -193.9380283020687
+Tello: 15:20:05.557:  Info: set_yaw(val=-0.72)
+Tello: 15:20:05.557:  Info: set_throttle(val=1.00)
+2 -357.5638375014529 -200.55426165091512
+ALT: -16 | SPD:  3 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -357.5638375014529 -200.55426165091512
+Tello: 15:20:05.624:  Info: set_yaw(val=-0.72)
+2 -362.23274657432887 -203.19643208014486
+2 -362.23274657432887 -203.19643208014486
+ALT: -16 | SPD:  2 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  1
+Tello: 15:20:05.691:  Info: set_yaw(val=-0.74)
+Tello: 15:20:05.691:  Info: set_throttle(val=0.97)
+2 -368.49235293571803 -194.44180580603597
+2 -368.49235293571803 -194.44180580603597
+Tello: 15:20:05.755:  Info: set_yaw(val=-0.74)
+Tello: 15:20:05.755:  Info: set_throttle(val=1.00)
+2 -370.5348646373019 -201.45523115622518
+ALT: -16 | SPD:  2 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  1
+2 -370.5348646373019 -201.45523115622518
+Tello: 15:20:05.823:  Info: set_yaw(val=-0.75)
+Tello: 15:20:05.823:  Info: set_throttle(val=0.97)
+2 -373.84525558655116 -193.66545864569662
+2 -373.84525558655116 -193.66545864569662
+ALT: -16 | SPD:  2 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  1
+2 -373.84525558655116 -193.66545864569662
+Tello: 15:20:05.927:  Info: set_yaw(val=-0.75)
+Tello: 15:20:05.927:  Info: set_throttle(val=1.00)
+2 -376.79954430763576 -199.75250145422933
+2 -376.79954430763576 -199.75250145422933
+ALT:  0 | SPD:  2 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  1
+Tello: 15:20:05.986:  Info: set_yaw(val=-0.76)
+Tello: 15:20:05.986:  Info: set_throttle(val=1.00)
+2 -377.73200068180415 -200.9681543968868
+2 -377.73200068180415 -200.9681543968868
+Tello: 15:20:06.056:  Info: set_yaw(val=-0.76)
+Tello: 15:20:06.056:  Info: set_throttle(val=0.97)
+2 -380.34639558498714 -193.219909157629
+ALT:  0 | SPD:  1 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  1
+2 -380.34639558498714 -193.219909157629
+Tello: 15:20:06.121:  Info: set_yaw(val=-0.76)
+Tello: 15:20:06.121:  Info: set_throttle(val=0.99)
+2 -381.1159423917994 -198.3199872635555
+2 -381.1159423917994 -198.3199872635555
+ALT:  0 | SPD:  1 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  1
+Tello: 15:20:06.189:  Info: set_yaw(val=-0.77)
+Tello: 15:20:06.189:  Info: set_throttle(val=1.00)
+2 -382.7881224483714 -200.40284964072225
+2 -382.7881224483714 -200.40284964072225
+Tello: 15:20:06.255:  Info: set_yaw(val=-0.77)
+Tello: 15:20:06.255:  Info: set_throttle(val=0.96)
+2 -386.7005818218455 -191.6185440682125
+ALT:  0 | SPD:  1 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  1
+2 -386.7005818218455 -191.6185440682125
+Tello: 15:20:06.321:  Info: set_yaw(val=-0.74)
+Tello: 15:20:06.321:  Info: set_throttle(val=1.00)
+2 -370.3811772197947 -199.24117275702474
+2 -370.3811772197947 -199.24117275702474
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:06.387:  Info: set_yaw(val=-0.76)
+Tello: 15:20:06.387:  Info: set_throttle(val=0.96)
+2 -379.0117686123118 -192.53256603705404
+2 -379.0117686123118 -192.53256603705404
+Tello: 15:20:06.457:  Info: set_yaw(val=-0.77)
+Tello: 15:20:06.457:  Info: set_throttle(val=0.94)
+2 -384.8304074138865 -188.8053331040096
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -384.8304074138865 -188.8053331040096
+Tello: 15:20:06.520:  Info: set_yaw(val=-0.83)
+Tello: 15:20:06.520:  Info: set_throttle(val=0.92)
+2 -415.41072586481425 -184.8132130764675
+2 -415.41072586481425 -184.8132130764675
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:06.588:  Info: set_yaw(val=-0.83)
+Tello: 15:20:06.588:  Info: set_throttle(val=0.91)
+2 -416.6082580417857 -181.3943111561489
+Tello: 15:20:06.613:  Info: video data 759357 bytes 366.0KB/sec loss=1
+2 -416.6082580417857 -181.3943111561489
+2 -416.6082580417857 -181.3943111561489
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:06.692:  Info: set_yaw(val=-0.84)
+Tello: 15:20:06.692:  Info: set_throttle(val=0.96)
+2 -418.16323247854564 -191.14086266982076
+Tello: 15:20:06.719:  Info: set_yaw(val=-0.83)
+Tello: 15:20:06.719:  Info: set_throttle(val=0.94)
+2 -416.81894043390605 -187.25023671614645
+2 -416.81894043390605 -187.25023671614645
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:06.788:  Info: set_yaw(val=-0.84)
+Tello: 15:20:06.788:  Info: set_throttle(val=0.91)
+2 -419.47195270960185 -182.65616342055318
+2 -419.47195270960185 -182.65616342055318
+Tello: 15:20:06.855:  Info: set_yaw(val=-0.84)
+Tello: 15:20:06.855:  Info: set_throttle(val=0.95)
+2 -419.17636722628924 -189.17508002745626
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -419.17636722628924 -189.17508002745626
+Tello: 15:20:06.921:  Info: set_yaw(val=-0.84)
+Tello: 15:20:06.921:  Info: set_throttle(val=0.91)
+2 -417.75872677867267 -182.49577161299703
+2 -417.75872677867267 -182.49577161299703
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:06.988:  Info: set_yaw(val=-0.84)
+Tello: 15:20:06.988:  Info: set_throttle(val=0.95)
+2 -418.77463156287524 -190.75493451582906
+2 -418.77463156287524 -190.75493451582906
+2 -418.77463156287524 -190.75493451582906
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:07.089:  Info: set_yaw(val=-0.84)
+Tello: 15:20:07.089:  Info: set_throttle(val=0.91)
+2 -417.59652740065906 -182.59753819930074
+2 -417.59652740065906 -182.59753819930074
+Tello: 15:20:07.155:  Info: set_yaw(val=-0.84)
+Tello: 15:20:07.156:  Info: set_throttle(val=0.95)
+2 -418.73321551387164 -189.81556960570333
+2 -418.73321551387164 -189.81556960570333
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:07.219:  Info: set_yaw(val=-0.84)
+Tello: 15:20:07.219:  Info: set_throttle(val=0.91)
+2 -418.46879047458026 -181.53674861418722
+2 -418.46879047458026 -181.53674861418722
+Tello: 15:20:07.288:  Info: set_yaw(val=-0.84)
+Tello: 15:20:07.288:  Info: set_throttle(val=0.95)
+2 -419.29415601794574 -190.41214725005148
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -419.29415601794574 -190.41214725005148
+Tello: 15:20:07.355:  Info: set_yaw(val=-0.84)
+Tello: 15:20:07.355:  Info: set_throttle(val=0.91)
+2 -418.6636533171401 -182.05322524535177
+2 -418.6636533171401 -182.05322524535177
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:07.424:  Info: set_yaw(val=-0.84)
+Tello: 15:20:07.424:  Info: set_throttle(val=0.95)
+2 -419.22501510684344 -190.72215148436544
+2 -419.22501510684344 -190.72215148436544
+Tello: 15:20:07.492:  Info: set_yaw(val=-0.84)
+Tello: 15:20:07.492:  Info: set_throttle(val=0.91)
+2 -420.248461905168 -181.30547305571554
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -420.248461905168 -181.30547305571554
+Tello: 15:20:07.555:  Info: set_yaw(val=-0.84)
+Tello: 15:20:07.556:  Info: set_throttle(val=0.95)
+2 -420.2559837547593 -189.25735064970968
+2 -420.2559837547593 -189.25735064970968
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:07.621:  Info: set_yaw(val=-0.84)
+Tello: 15:20:07.621:  Info: set_throttle(val=0.91)
+2 -419.90762935555506 -182.02633925902364
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -419.90762935555506 -182.02633925902364
+Tello: 15:20:07.693:  Info: set_yaw(val=-0.82)
+Tello: 15:20:07.693:  Info: set_throttle(val=0.90)
+2 -409.5646270362191 -180.16479429232595
+2 -409.5646270362191 -180.16479429232595
+Tello: 15:20:07.756:  Info: set_yaw(val=-0.83)
+Tello: 15:20:07.756:  Info: set_throttle(val=0.94)
+2 -415.6685842124276 -187.9453228377056
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -415.6685842124276 -187.9453228377056
+Tello: 15:20:07.825:  Info: set_yaw(val=-0.84)
+Tello: 15:20:07.825:  Info: set_throttle(val=0.90)
+2 -419.15327702439356 -180.64602598177908
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -419.15327702439356 -180.64602598177908
+Tello: 15:20:07.892:  Info: set_yaw(val=-0.84)
+Tello: 15:20:07.892:  Info: set_throttle(val=0.94)
+2 -419.91510187066126 -187.61910423266409
+2 -419.91510187066126 -187.61910423266409
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:07.960:  Info: set_yaw(val=-0.84)
+Tello: 15:20:07.960:  Info: set_throttle(val=0.90)
+2 -420.6209054437928 -180.479976978178
+2 -420.6209054437928 -180.479976978178
+Tello: 15:20:08.027:  Info: set_yaw(val=-0.84)
+Tello: 15:20:08.027:  Info: set_throttle(val=0.95)
+2 -421.25372771895456 -189.02877363192556
+2 -421.25372771895456 -189.02877363192556
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:08.092:  Info: set_yaw(val=-0.85)
+Tello: 15:20:08.092:  Info: set_throttle(val=0.91)
+2 -422.7107745853715 -181.04701122271535
+2 -422.7107745853715 -181.04701122271535
+Tello: 15:20:08.159:  Info: set_yaw(val=-0.84)
+Tello: 15:20:08.159:  Info: set_throttle(val=0.94)
+2 -422.2721782175355 -188.39722904192922
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -422.2721782175355 -188.39722904192922
+Tello: 15:20:08.225:  Info: set_yaw(val=-0.84)
+Tello: 15:20:08.225:  Info: set_throttle(val=0.90)
+2 -422.0319547799878 -179.9385813139629
+2 -422.0319547799878 -179.9385813139629
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:08.291:  Info: set_yaw(val=-0.85)
+Tello: 15:20:08.291:  Info: set_throttle(val=0.94)
+2 -423.4613469985776 -188.35705169665334
+2 -423.4613469985776 -188.35705169665334
+Tello: 15:20:08.361:  Info: set_yaw(val=-0.85)
+Tello: 15:20:08.361:  Info: set_throttle(val=0.90)
+2 -423.5301324573808 -179.91632160174368
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -423.5301324573808 -179.91632160174368
+Tello: 15:20:08.426:  Info: set_yaw(val=-0.83)
+Tello: 15:20:08.426:  Info: set_throttle(val=0.89)
+2 -412.67095486796427 -178.62469562518118
+2 -412.67095486796427 -178.62469562518118
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:08.490:  Info: set_yaw(val=-0.84)
+Tello: 15:20:08.490:  Info: set_throttle(val=0.93)
+2 -418.1457363811784 -185.44750150668142
+2 -418.1457363811784 -185.44750150668142
+Tello: 15:20:08.561:  Info: set_yaw(val=-0.84)
+Tello: 15:20:08.561:  Info: set_throttle(val=0.89)
+2 -419.9031447616868 -178.3316229246807
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -419.9031447616868 -178.3316229246807
+Tello: 15:20:08.613:  Info: video data 751006 bytes 366.7KB/sec
+Tello: 15:20:08.628:  Info: set_yaw(val=-0.84)
+Tello: 15:20:08.628:  Info: set_throttle(val=0.93)
+2 -421.527015134459 -185.0838611983013
+2 -421.527015134459 -185.0838611983013
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:08.696:  Info: set_yaw(val=-0.82)
+Tello: 15:20:08.696:  Info: set_throttle(val=0.90)
+2 -411.03055135882425 -180.40719398486135
+2 -411.03055135882425 -180.40719398486135
+Tello: 15:20:08.758:  Info: set_yaw(val=-0.83)
+Tello: 15:20:08.758:  Info: set_throttle(val=0.93)
+2 -416.73828785098124 -186.17298778521535
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+2 -416.73828785098124 -186.17298778521535
+Tello: 15:20:08.824:  Info: set_yaw(val=-0.84)
+Tello: 15:20:08.824:  Info: set_throttle(val=0.89)
+2 -419.6853529659562 -177.4191311262798
+2 -419.6853529659562 -177.4191311262798
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 15:20:08.893:  Info: set_yaw(val=-0.84)
+Tello: 15:20:08.893:  Info: set_throttle(val=0.92)
+2 -421.7518140522294 -184.94892248141286
+2 -421.7518140522294 -184.94892248141286
+Tello: 15:20:08.959:  Info: set_yaw(val=-0.82)
+Tello: 15:20:08.959:  Info: set_throttle(val=0.90)
+2 -411.43780438578654 -179.51138481127737
+ALT:  0 | SPD:  0 | BAT: 74 | WIFI: 90 | CAM:  0 | MODE:  6

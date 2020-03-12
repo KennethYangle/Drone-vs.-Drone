@@ -1,0 +1,133 @@
+Tello: 17:41:19.268:  Info: start video thread
+Tello: 17:41:19.268:  Info: send connection request (cmd="conn_req:9617")
+Tello: 17:41:19.268:  Info: video receive buffer size = 425984
+Tello: 17:41:19.268:  Info: state transit State::disconnected -> State::connecting
+Tello: 17:41:19.295:  Info: connected. (port=9617)
+Tello: 17:41:19.295:  Info: send_time (cmd=0x46 seq=0x01e4)
+Tello: 17:41:19.295:  Info: state transit State::connecting -> State::connected
+Tello: 17:41:19.295:  Info: get video stream
+Tello: 17:41:19.296:  Info: start video (cmd=0x25 seq=0x01e4)
+Tello: 17:41:19.346:  Info: recv: ack: cmd=0x34 seq=0x0000 cc 60 00 27 90 34 00 00 00 00 72 a5
+Tello: 17:41:19.347:  Info: recv: ack: cmd=0x20 seq=0x0000 cc 60 00 27 b0 20 00 00 00 00 42 b9
+Tello: 17:41:19.347:  Info: recv: ack: cmd=0x34 seq=0x0000 cc 60 00 27 90 34 00 00 00 00 72 a5
+Tello: 17:41:19.348:  Info: recv: ack: cmd=0x20 seq=0x0000 cc 60 00 27 b0 20 00 00 00 00 42 b9
+Tello: 17:41:22.270:  Info: video data 922757 bytes 450.3KB/sec loss=80
+Tello: 17:41:24.297:  Info: video data 753330 bytes 363.0KB/sec
+Tello: 17:41:26.297:  Info: video data 762186 bytes 372.2KB/sec
+Tello: 17:41:28.298:  Info: video data 763896 bytes 372.9KB/sec
+Tello: 17:41:29.470:  Info: set altitude limit 30m
+Tello: 17:41:29.470:  Info: takeoff (cmd=0x54 seq=0x01e4)
+Tello: 17:41:29.470:  Info: up(val=1)
+Tello: 17:41:29.501:  Info: recv: ack: cmd=0x54 seq=0x0000 cc 60 00 27 b0 54 00 00 00 00 a1 81
+ALT:  0 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  0 | SPD: -3 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+Tello: 17:41:30.311:  Info: video data 781255 bytes 379.0KB/sec
+ALT:  1 | SPD: -7 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  2 | SPD: -9 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  3 | SPD: -10 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  4 | SPD: -10 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  5 | SPD: -10 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  6 | SPD: -10 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  7 | SPD: -9 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD: -8 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  8 | SPD: -7 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT:  9 | SPD: -5 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD: -4 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD: -3 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD: -2 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 10 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+Tello: 17:41:32.334:  Info: video data 823553 bytes 397.6KB/sec
+ALT: 11 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 11 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 12 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 12 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 12 | SPD: -1 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE: 11
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 17:41:34.335:  Info: video data 846680 bytes 413.3KB/sec loss=2
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 17:41:36.350:  Info: video data 858753 bytes 416.1KB/sec
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+Tello: 17:41:38.368:  Info: video data 879434 bytes 425.5KB/sec
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
+ALT: 12 | SPD:  0 | BAT: 56 | WIFI: 90 | CAM:  0 | MODE:  6
